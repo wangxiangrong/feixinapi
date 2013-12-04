@@ -7,7 +7,7 @@
 此源码依赖以下Jar包：
 commons-codec
 commons-httpclient
-commons-logging
+commons-logging 
 
 
 此源码参考了博客
